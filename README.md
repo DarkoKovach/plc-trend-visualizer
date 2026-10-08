@@ -2,6 +2,8 @@
 
 A real-time PLC variable trend visualization application built with Vue 3 and TypeScript. This project demonstrates senior-level frontend architecture for industrial automation interfaces, maintaining 60fps performance with high-frequency data streams.
 
+**▶ Live demo: [darkokovach.github.io/plc-trend-visualizer](https://darkokovach.github.io/plc-trend-visualizer/)** — select up to 4 variables in the sidebar and switch the update rate between 2/10/20 Hz.
+
 [![Vue](https://img.shields.io/badge/Vue-3.5-4FC08D?style=flat&logo=vue.js)](https://vuejs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat&logo=typescript)](https://www.typescriptlang.org/) [![Tailwind](https://img.shields.io/badge/Tailwind-4.1-38B2AC?style=flat&logo=tailwindcss)](https://tailwindcss.com/) [![Vite](https://img.shields.io/badge/Vite-7.2-646CFF?style=flat&logo=vite)](https://vite.dev/)
 
 ## Demo
